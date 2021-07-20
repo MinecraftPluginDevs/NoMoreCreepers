@@ -1,0 +1,4 @@
+name: NoCreepers
+version: ${project.version}
+main: com.jackthewebdev.nocreepers.NoCreepers
+api-version: 1.16
